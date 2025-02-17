@@ -12,7 +12,7 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 3. The README.md file (this file):
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
 
-# [Title]
+# How SAP Suite Qualities and SAP Build support the Clean Core strategy
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
@@ -20,7 +20,7 @@ Please edit this file as it is the primary description file for your project. Yo
 -->
 
 ## Description
-<!-- Please include SEO-friendly description -->
+In this session, we will introduce how the different “SAP Suite Qualities” - such as ‘Seamless user experience,’ ‘Consistent security and identity management,’ and ‘One workflow inbox’- play a critical role in SAP’s Integration Strategy, providing added value on top of SAP Business Technology Platform. We will also highlight how SAP Build provides the foundation & tooling for achieving ‘clean core’ extensions. Based on this you will learn (hands-on) how to set up and combine differnt BTP services and understand how the work together to deliver business value, driving integrated scenarios when creating clean core extensions to SAP S/4HANA Cloud.
 
 ## Requirements
 
