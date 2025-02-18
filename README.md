@@ -22,6 +22,29 @@ Please edit this file as it is the primary description file for your project. Yo
 ## Description
 In this session, we will introduce how the different “SAP Suite Qualities” - such as ‘Seamless user experience,’ ‘Consistent security and identity management,’ and ‘One workflow inbox’- play a critical role in SAP’s Integration Strategy, providing added value on top of SAP Business Technology Platform. We will also highlight how SAP Build provides the foundation & tooling for achieving ‘clean core’ extensions. Based on this you will learn (hands-on) how to set up and combine differnt BTP services and understand how the work together to deliver business value, driving integrated scenarios when creating clean core extensions to SAP S/4HANA Cloud.
 
+## Excercises
+
+- [Gettings started - SAP Integration Startegy & Suite Qualities](/Excercises/ex1/README.md)
+- [SAP BTP and SAP Build ](/Excercises/ex1/README.md)
+- [System Access](/Excercises/ex1/README.md)
+- [Architecture](/Excercises/ex1/README.md)
+- [Excercise 1 - Create a SAP Build Workzone site](/Excercises/ex1/README.md)
+- [Excercise 2 - Create a and deploy a CAP application](/Excercises/ex2/README.md)
+- [Excercise 3 - Create a SAP Build Process Automation project](/Excercises/ex3/README.md)
+
+
+
+
+- [The inbox from SAP Landscape Discovery](/Excercises/ex1/README.md)
+- [Create / Link a first Factsheet in SAP LeanIX](/Excercises/ex3/README.md)
+- Maintain the created Factsheet
+- Create your BTP Account structure in SAP LeanIX
+- Create or reuese a BTP Solution Diagram in SAP LeanIX
+- Link the BTP Solution Diagram elemnts to the Factsheets
+- Create a Application Roadmap in SAP LeanIX
+- ....
+
+
 ## Requirements
 
 ## Download and Installation
