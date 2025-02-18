@@ -31,17 +31,6 @@ In this session, we will introduce how the different “SAP Suite Qualities” -
 - [Excercise 1 - Create a SAP Build Workzone site](/Excercises/ex1/README.md)
 - [Excercise 2 - Create a and deploy a CAP application](/Excercises/ex2/README.md)
 - [Excercise 3 - Create a SAP Build Process Automation project](/Excercises/ex3/README.md)
-
-
-
-
-- [The inbox from SAP Landscape Discovery](/Excercises/ex1/README.md)
-- [Create / Link a first Factsheet in SAP LeanIX](/Excercises/ex3/README.md)
-- Maintain the created Factsheet
-- Create your BTP Account structure in SAP LeanIX
-- Create or reuese a BTP Solution Diagram in SAP LeanIX
-- Link the BTP Solution Diagram elemnts to the Factsheets
-- Create a Application Roadmap in SAP LeanIX
 - ....
 
 
