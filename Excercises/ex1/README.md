@@ -38,7 +38,7 @@ of rapid change. Stay tuned.
 Integrated enterprises offer a consistent experience throughout end-to-end key processes.
 In 2020, SAP introduced distinct suite qualities that characterize integrated SAP applications.
 
-![SAP Suite Qualities](./pics/int_strat.png)
+![SAP Suite Qualities](./pics/sqs.png)
 
 ## Seamless user experience
 
