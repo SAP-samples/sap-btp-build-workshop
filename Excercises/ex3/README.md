@@ -1,12 +1,18 @@
 # Get your Hand's Dirty - System access !
 
-To get started please enter the follwoing [link](https://trials.cfapps.eu10-004.hana.ondemand.com/) on your local device: 
+To get started please enter the follwoing [link](https://trials.cfapps.eu10-004.hana.ondemand.com/) on your local device
 
 Alternative scan the QR code here:
 
 ![SAP Build HandsOn](./pics/qr.png)
 
-- Long in with your credentials (which we sheared with you in the session):
+- Long in with your credentials (which we sheared with you in the session) and will have the following syntax:
+
+```
+Username: AC162683U##
+Note: you will have been assigned a number from 01 - 40
+Password: ObawAxU2mJ1!
+```
 
 ![SAP Build HandsOn](./pics/ho1.png)
 
