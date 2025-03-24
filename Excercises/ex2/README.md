@@ -24,3 +24,7 @@ Intelligent Copilot: Powered by Joule, a copilot leveraging industry data, proce
 - **Seamless Integration:** Deeply integrated with SAP's business applications, Build offers quick access from within your applications, leveraging familiar identity, security, and APIs for enhanced simplicity and efficiency. An extensive library of 5,000+ connectors, integration flows and business events for SAP and non-SAP applications all available in the Business Accelerator Hub
 
 ![SAP Build](./pics/build03.png)
+
+Want to learn more please check the SAP Build document [here](https://dam.sap.com/mac/u/a/jcKmFzo?rc=10&doi=SAP961432)
+
+**And now let's start to get your Hand's Dirty with the [next excercise ](/Excercises/ex3/README.md)**
