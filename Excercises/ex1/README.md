@@ -38,6 +38,8 @@ of rapid change. Stay tuned.
 Integrated enterprises offer a consistent experience throughout end-to-end key processes.
 In 2020, SAP introduced distinct suite qualities that characterize integrated SAP applications.
 
+![SAP Suite Qualities](./pics/int_strat.png)
+
 ## Seamless user experience
 
 Improve the daily work experience of end users with a common look and feel for SAP solutions across end-to end
@@ -46,6 +48,25 @@ Build Work Zone, delivering integrated search functionality and the SAP Task Cen
 approvals, tasks, and recommended business insights content. The scope includes content from SAP S/4HANA Cloud, SAP SuccessFactors solutions, and SAP Fieldglass solutions.. 
 Additional cloud solutions are on SAP’s roadmap. 
 You can either use SAP Start “as is” and directly benefit from its features, choose to implement your own customized entry point scenario using SAP Build Work Zone.
+
+## One workflow inbox
+
+Complete business tasks proactively through a unified view of pending tasks across SAP solutions in both mobile and
+desktop environments. The “one workflow inbox” capability is generally available as part of the SAP Task Center service, 
+providing integration with major SAP solutions (for example, SAP S/4HANA Cloud, SAP S/4HANA, SAP SuccessFactors,
+SAP Ariba, SAP Concur, and SAP Fieldglass) and third-party solutions through third-party system support. AI-generated
+approval recommendations based on previously processed tasks now help you maximize the efficiency
+of your workflows (currently available for the SAP Build Process Automation solution).
+
+## End-to-end process blueprints
+
+## Coordinated lifecycle management
+
+## Consistent security and identity management
+
+## Embedded and cross-product analytics
+
+## Aligned Domain Models and integration content
 
 
 
