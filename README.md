@@ -11,8 +11,8 @@ In this session, we will introduce how the different “SAP Suite Qualities” -
 ## Excercises
 
 - [Gettings started - SAP Integration Startegy & Suite Qualities](/Excercises/ex1/README.md)
-- [SAP BTP and SAP Build ](/Excercises/ex1/README.md)
-- [System Access](/Excercises/ex1/README.md)
+- [SAP BTP and SAP Build ](/Excercises/ex2/README.md)
+- [System Access](/Excercises/ex3/README.md)
 - [Architecture](/Excercises/ex1/README.md)
 - [Excercise 1 - Create a SAP Build Workzone site](/Excercises/ex1/README.md)
 - [Excercise 2 - Create a and deploy a CAP application](/Excercises/ex2/README.md)
@@ -20,7 +20,7 @@ In this session, we will introduce how the different “SAP Suite Qualities” -
 - ....
 
 
-## Requirements
+## Requirementsx
 
 ## Download and Installation
 
