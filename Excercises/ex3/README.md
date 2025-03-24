@@ -13,3 +13,5 @@ Alternative scan the QR code here:
 - Once you are logged in you will see the following screen:
 
 ![SAP Build HandsOn](./pics/ho2.png)
+
+** You can now follow all steps in the workbook to get your hands dirty with SAP Build **
