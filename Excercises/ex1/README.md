@@ -130,4 +130,4 @@ help to jump-start your integration projects.
 
 [Source - SAP Integration Strategy Paper](https://www.sap.com/documents/2020/02/520ea921-847d-0010-87a3-c30de2ffd8ff.html)
 
-**Continue with the [next excercise](/Excercises/ex2/README.md)**
+**Continue with the [next excercise to learn more bout SAP BTP and SAP Build](/Excercises/ex2/README.md)**
