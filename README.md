@@ -13,19 +13,7 @@ In this session, we will introduce how the different “SAP Suite Qualities” -
 - [Gettings started - SAP Integration Startegy & Suite Qualities](/Excercises/ex1/README.md)
 - [SAP BTP and SAP Build ](/Excercises/ex2/README.md)
 - [System Access](/Excercises/ex3/README.md)
-- [Architecture](/Excercises/ex1/README.md)
-- [Excercise 1 - Create a SAP Build Workzone site](/Excercises/ex1/README.md)
-- [Excercise 2 - Create a and deploy a CAP application](/Excercises/ex2/README.md)
-- [Excercise 3 - Create a SAP Build Process Automation project](/Excercises/ex3/README.md)
-- ....
 
-
-## Requirementsx
-
-## Download and Installation
-
-## Known Issues
-<!-- You may simply state "No known issues. -->
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.

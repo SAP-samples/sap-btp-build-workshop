@@ -60,19 +60,74 @@ of your workflows (currently available for the SAP Build Process Automation solu
 
 ## End-to-end process blueprints
 
+Reduce planning efforts for implementation projects
+and support architecture decisions by leveraging
+process blueprints following SAP Enterprise Architecture
+Methodology. End-to-end process documentation is
+linked to detailed, predefined integration in SAP Business
+Accelerator Hub. Architecture documentation is available
+for many solution scenarios (cloud and hybrid).
+Furthermore, SAP Signavio and SAP LeanIX solutions
+provide transparency into business processes and required
+business capabilities. The necessary solution components
+(applications) are also visible through their direct relations
+and links to these business processes and capabilities.
+
 ## Coordinated lifecycle management
+
+Benefit from a true software-as-a-service (SaaS)
+experience for provisioning, integration, and configuration
+by minimizing manual integration efforts through
+automation and setups managed by SAP. Industry
+cloud solutions, software for next-generation supplier
+management, and the SAP Multi-Bank Connectivity
+solution are already following this approach. Accelerate
+implementation projects by providing holistic landscape
+management, guided integration based on built-in defaults,
+as well as compelling operations and monitoring solutions.
+Guided implementation through a well-defined toolchain
+is available for most scenarios for SAP S/4HANA Cloud
+and select business processes across the SAP
+solution portfolio.
 
 ## Consistent security and identity management
 
+Manage the identities and access rights of your end users
+centrally and consistently across SAP applications by
+leveraging SAP Cloud Identity Services. At the same time,
+your end users benefit from the availability of the single-
+sign-on capability. In addition, the effort of IT security
+administrators is significantly simplified, since the identity
+distribution for the SAP solution portfolio can be controlled
+through a central endpoint.
+
 ## Embedded and cross-product analytics
+
+Make quick and confident decisions by relying on
+comprehensive analytical insights across various SAP
+solutions. Embedded analytics with SAP Analytics Cloud is
+generally available for SAP S/4HANA; SAP SuccessFactors,
+SAP Sales Cloud, SAP Service Cloud; SAP Business
+Network; SAP Business Network for Logistics; SAP Digital
+Manufacturing bundle for insights; and SAP Integrated
+Business Planning for Supply Chain. Analytical insights
+across multiple SAP and third-party applications can
+best be realized using the SAP Datasphere solution that
+enables data professionals to deliver smooth and
+scalable access to mission-critical business data.
 
 ## Aligned Domain Models and integration content
 
+Create connected experiences for your end-to-end business
+processes by sharing semantically aligned domain models
+across SAP applications with the help of SAP Master Data
+Integration, by leveraging harmonized APIs for process
+integration between SAP solutions and third-party solutions,
+and by adopting an event-based integration strategy. Pre-
+built integrations, APIs, data graphs, and business events
+help to jump-start your integration projects.
 
 
 [Source - SAP Integration Strategy Paper](https://www.sap.com/documents/2020/02/520ea921-847d-0010-87a3-c30de2ffd8ff.html)
 
-## Architecture
-
-## System access
 
