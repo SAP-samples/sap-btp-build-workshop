@@ -1,4 +1,4 @@
-# SAP Integration Startegy & Suite Qualities
+# SAP Integration Startegy
 
 In today’s fast-moving and increasingly complex world, businesses face a constant challenge:
 how to scale, innovate, and adapt – without being held back by disconnected systems,
@@ -32,6 +32,21 @@ about keeping up; it’s about staying ahead – transforming complexity into op
 your business unstoppable. This is just the start of an exciting new chapter. As we gear up for Sapphire
 2025, we’ll be sharing more on how SAP Business Suite helps organizations like yours thrive in a world
 of rapid change. Stay tuned.
+
+# Suite Qualities
+
+Integrated enterprises offer a consistent experience throughout end-to-end key processes.
+In 2020, SAP introduced distinct suite qualities that characterize integrated SAP applications.
+
+## Seamless user experience
+
+Improve the daily work experience of end users with a common look and feel for SAP solutions across end-to end
+business processes. The SAP Start site serves as a central entry point for cloud solutions from SAP and utilizes SAP
+Build Work Zone, delivering integrated search functionality and the SAP Task Center service integration for workflow
+approvals, tasks, and recommended business insights content. The scope includes content from SAP S/4HANA Cloud, SAP SuccessFactors solutions, and SAP Fieldglass solutions.. 
+Additional cloud solutions are on SAP’s roadmap. 
+You can either use SAP Start “as is” and directly benefit from its features, choose to implement your own customized entry point scenario using SAP Build Work Zone.
+
 
 
 [Source - SAP Integration Strategy Paper](https://www.sap.com/documents/2020/02/520ea921-847d-0010-87a3-c30de2ffd8ff.html)
