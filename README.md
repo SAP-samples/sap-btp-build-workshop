@@ -1,7 +1,6 @@
 # DSAG TechXchange 2025 -  How SAP Suite Qualities and SAP Build support the Clean Core strategy
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-btp-build-workshop)](https://api.reuse.software/info/github.com/SAP-samples/sap-btp-build-workshop)
 
--->
 
 ## Description
 In this session, we will introduce how the different “SAP Suite Qualities” - such as ‘Seamless user experience,’ ‘Consistent security and identity management,’ and ‘One workflow inbox’- play a critical role in SAP’s Integration Strategy, providing added value on top of SAP Business Technology Platform. We will also highlight how SAP Build provides the foundation & tooling for achieving ‘clean core’ extensions. Based on this you will learn (hands-on) how to set up and combine differnt BTP services and understand how the work together to deliver business value, driving integrated scenarios when creating clean core extensions to SAP S/4HANA Cloud.
