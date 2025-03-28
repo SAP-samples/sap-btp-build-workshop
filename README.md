@@ -8,6 +8,11 @@
 ## Description
 In this session, we will introduce how the different “SAP Suite Qualities” - such as ‘Seamless user experience,’ ‘Consistent security and identity management,’ and ‘One workflow inbox’- play a critical role in SAP’s Integration Strategy, providing added value on top of SAP Business Technology Platform. We will also highlight how SAP Build provides the foundation & tooling for achieving ‘clean core’ extensions. Based on this you will learn (hands-on) how to set up and combine differnt BTP services and understand how the work together to deliver business value, driving integrated scenarios when creating clean core extensions to SAP S/4HANA Cloud.
 
+## Prerequisite
+
+1. Bring your own device
+2. Google Chrome browser or similar
+
 ## Excercises
 
 - [Gettings started - SAP Integration Startegy & Suite Qualities](/Excercises/ex1/README.md)
