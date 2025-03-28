@@ -11,7 +11,7 @@ In this session, we will introduce how the different “SAP Suite Qualities” -
 ## Prerequisite
 
 1. Bring your own device
-2. Google Chrome browser or similar
+2. [Google Chrome browser](https://www.google.com/chrome/) or similar
 
 ## Excercises
 
