@@ -4,7 +4,7 @@
 
 ## Get your Hand's Dirty - System access !
 
-To get started, please enter the follwoing [link](https://trials.cfapps.eu10-004.hana.ondemand.com/) on your local device
+To get started, please enter the following [link](https://trials.cfapps.eu10-004.hana.ondemand.com/) on your local device
 
 Alternatively, scan the QR code here:
 
