@@ -14,7 +14,7 @@ Alternatively, scan the QR code here:
 
 ```
 Username: AC168453U##
-Note: you will have been assigned a number from 02 - 40
+Note: you will have been assigned a number from 02 - 50
 Password: Obk0uS1Ot61!
 ```
 
