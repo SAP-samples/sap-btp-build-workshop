@@ -15,7 +15,7 @@ Alternatively, scan the QR code here:
 ```
 Username: AC168453U##
 Note: you will have been assigned a number from 02 - 40
-Password: 
+Password: Obk0uS1Ot61!
 ```
 
 ![SAP Build HandsOn](./pics/ho1.png)
