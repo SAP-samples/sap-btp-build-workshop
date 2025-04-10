@@ -1,4 +1,4 @@
-# DSAG TechXchange 2025 -  How SAP Suite Qualities and SAP Build support the Clean Core strategy
+# BTP Summit 2025 -  End-to-End Erweiterungslösungen mit SAP Build auf der BTP
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-btp-build-workshop)](https://api.reuse.software/info/github.com/SAP-samples/sap-btp-build-workshop)
 
 
